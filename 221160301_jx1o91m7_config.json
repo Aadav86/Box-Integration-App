@@ -1,0 +1,16 @@
+{
+  "boxAppSettings": {
+    "clientID": "yt87lwqv01btlfkc3r9a1mykgu677y7t",
+    "clientSecret": "XqwFujcXfeZlF8PpaSZ9e0v3tjc5AG31",
+    "appAuth": {
+      "publicKeyID": "jx1o91m7",
+      "privateKey": "-----BEGIN ENCRYPTED PRIVATE KEY-----\nMIIFDjBABgkqhkiG9w0BBQ0wMzAbBgkqhkiG9w0BBQwwDgQIBPGE839HFX8CAggA\nMBQGCCqGSIb3DQMHBAhQJUuih5lqswSCBMgM3bj02Nt41YeK2MTYSfnn1LYeaAiH\nMQRISFUvh6P/dfrDmY0WcoApsMOqJjHlbLzhArGK+OCiTF6h53Q1Nv2LUNZkhxSk\nsuPMoNA0FnINlD8MzyM9D73Gim2uf8gfTBeLn4cdTNwRUMs5Eon3sHZaA2Q3loT0\nP4GYE6XoegYidURfdee/iRSgEuCUh+xN/0/UwYVbZjl5WGBZxV7OR7cUcQHGVFsr\nEao07H5TAr1NYpKvp6ZmAp94QD+y6VgbObRaTTN5NvHNDgdWE73y9mMTfdjxhyat\nnzVRSWBZ8JPysRMPCF84RgAJydmcWrCeG7bRemEJsp1GT5YKerlni1ZjyMm3xdv3\ndQHroChv2HJzYyk8DeZSd8esshzQAeeD4iCEmluqlupByFFnGgqJGkIjaiH7RPqG\nr8oZAVv8/XcV7B4oiLmMBhFGOrliMvN7FZXCSFpOiR9UYrLCSHD3/v51pfCnVfvk\ntJhijwtmH/fsy4R3A3c3V6HcEzP8DZnJXdCZowQjEJAsAjH0hK33H4qo+u8i5bYI\nlZy40LiBxT2IbxkJMpMw9oZMT++w+B6HSPfz58OlFG0R7xyVDnOf4oSInMuiVCiu\npWBnWNX9ZNdfAJAw5OVDkz1auPYPgRxOPu3Sic7rjnlmQ/K2/3C/rMOJ28iBKD/J\n+8icni5CLLu8Q0w+W1pROJ0+0ynk1M1tHbe9MNjZLjDexFg+T93KEUR2/54C9lBt\nzFeLcguCWOxPiVp3gg4dckcBAR+5OdfOkWBkE2IWmuk+shzEALhlTsdDZNVBkr5W\nwZ35rI0VpEnTB1AHjknen6y7HTDUjPjpELBBpJgAF3pe8provnHIJZZ+d6QS5eu9\nPrAcg8I8QncWy1wX0Q4TUqTszrQ2LhiexuPrCTJNojjPm/7a5YJ6pQelhbZs37Dl\ncbgz4m94XjwVs5wI8G6kKswndXS+HEgXSAQVXSk+d5slM+qj3qSJLAQM5rPDPR+t\n2OHZ1q2SsBbP/z6BHFgWL3MUF2A9XUHBedw81vUpoSwjT9J0y2On8n3RnbeKHMwq\nWMWjjmxzpZtyzPaNSpLyhZs0suVxAcQ2uLplLrWGPQhjzNB1bQ/29idwC+VyInbN\n7uy3/e+h/kSy5g5SEERHxBkvDvFdsgpNuTQ1H1NeOZwY+0KlHuGmThiQIy6i+RI/\nficYjn46zcJ3GW/zHMsdXKwQImPi4wHgcAYT/8cGT7yMv9rT2Sx+QkWgtwGKqA//\nyQ2Jcpbkd4371rNGrMZdohRgnlP1FNyDT/mCoZUFCebCwSLDi1vnPSgffmzy1eSf\nhGCNmGNjLYYVagM60duHNebf6z55JqQcjygKu8yaJee7fmUXB8bSuy9iatYuSqKX\nvdfegzBc/ZvwLtPbtg7f9gqJHeOlnmT0QjFPLgEEMTOru9xiAthKWOOx6Lhw1+Or\nu3u3w5B1Kvv1VgWov7A3Rj1KjMV78j2GTZLEs/xEeg7Z2/cegPMCE0vLpXp8DX6p\nYhLjSU/m2IuIh7Iuos59Wm0Gxpn1HqBVoRvySkCbgD+qtFXpquneHzzfUou1ZaNX\nXiEVgfZOmsC2FvhV4Zg5qSGEhw3LYKLEuDHsGQ1bB8aZxzLxkZSqIUBEGxOoImz3\nLWc=\n-----END ENCRYPTED PRIVATE KEY-----\n",
+      "passphrase": "905f8de3adc38f85fd980f37e1017752"
+    }
+  },
+  "enterpriseID": "221160301",
+  "webhooks": {
+    "primaryKey": "v4c5OlULz1yjGlI0BlRjyrjzMzkt2jw2",
+    "secondaryKey": "Qb3uYnvsWDqc20HnYQwCSz47u2KKRiVU"
+  }
+}

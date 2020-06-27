@@ -1,0 +1,12 @@
+{
+  "boxAppSettings": {
+    "clientID": "4fxi5ndfluhhulql3q5hcpnphbyrsjc4",
+    "clientSecret": "JZefJjuDiexQuZP4wEJtL0UJGNGqWOvX",
+    "appAuth": {
+      "publicKeyID": "eyii92cw",
+      "privateKey": "-----BEGIN ENCRYPTED PRIVATE KEY-----\nMIIFDjBABgkqhkiG9w0BBQ0wMzAbBgkqhkiG9w0BBQwwDgQIQBuRaJG8PrUCAggA\nMBQGCCqGSIb3DQMHBAiV8lDfxtPHXASCBMhEiABHNEVuAvttsoZAvQ9zXKlwoMBW\n4agxf+iKhUE5nClAutvMNldj0IbjdVDW66BFjw64FxVAV0q3Vh3WgqE0dMOHl50l\nO2Oy2WOhOOEtRCh4eZWUUBpCBgyfhoqsyuvwLt52VWviHITuy17wCrG+H+Wwz4Tf\nuLH/5D0Rbc4cd+K80mLbamw8pTlY33Jo8x6Zq+fwqxDSIB/ztN3EIPtaG4oqidzn\nL4twctrmoO4xlnwIWhgXjRoevvdkFJfROJZcEbfTULDbkZfMZcJixbc8MZIukjK/\n9PzuSRlbN6BbbbBjn310mjxwd+uTmx2WJcojwy59I3dCVI2CaPgLWsPtDrskeWnt\nc2pgpHpBXLg+MpuEa+fcd9plzjOsKq2vd2ZwAVpsqbXRpZ0/y8uZwcojBVk75ukB\nEW8R1m4rJ+BUxP1zfC8DrW+7D9wv4K/5MpO89XQ/kIUCkjqOfb5qGVcPBXHOeH4Q\ngQbFscJ1wajxcSv/iryaWeC2ClaExuxUtYYt6K2x9JnKjDz0KR8Y6B9rUPHXakt2\ngwfVnzIWjiA2fYtbIcEx+30u+T9gNGPron/NbXebvijWowC4+VnlgOAj6EwjOgGj\n2mpvK3XBGLViMVKOzReu+YbnXdDorCyxDWOuUaAdW41rItxNnK8qAFknGRNnSFRv\nwF6j4Ksnl/9ClLqkKiPa5Rw2g+A0qAu5IZ+ZBWAvdbzJnpLld2XomtYswbZ18deC\npmlGI84ljiHZGobW16wiW+p+LnQDDAzqshFRQnTlvJun7xCu4D8PAg3abt6o7iEc\noYbisvgyKrKRoWQOLjInFICezpaiOQwdfNxLP986giotnc8AcgBUH6WUvI2DHYXF\nLcxhmO6zgJGaeRVeRaiHOcAH2LMGs9qp+oqDGDhuRO5++s8WDEcYy+sl6yshaspW\nSyLuB7ebAi2aXS2rG3clCO+cMRz1AfAZYmBrnzFbjzTSPEmmTSQzODUT8hGk+s90\nnQnDHoeblS5gvPA4HucqVN91MCdtyDZBnNSbv2YUz/Vub2KGwz7Pajlhs3tvaq4z\nl2ZGXmatR94o89lBfEqTOOP/jfDR2yq0MNjkUVZ2e7uMQqRm1WYmraIiV4UIz2Ju\nn6ydpDqeoUxmtpGe/eEYVBmlF6uW7dYeXTReoqaJeVdK+9Eb6cEyDCslw755xosR\nutzc/20+kTAJa2HikKc8hG33jBBm+E4zWKQad2VA3fL89Xu5A+48OhUQ2FVMi1t4\nKpiuZJK5jsLPw6kTywSXIF0itft4ue9iee/JUeAKpM5qhnX18+ryNcXGH7OM+BC/\n3wj3PsrNs8Issqp4FzvJKRG7ZRBS7rANJ2PtCG5oDM8FiWJnO/7qBn53mNWIJpBQ\nphPkAUbCbTZnc+BlFuJHqkFVnLNcxjEHd89kHn/u4SSyFr9M5/+NOJo2GD+CXzSE\nQk0/GOO5E7stSe95ZvUCqfBOFp8YIYhUmQuuzrO54nPnDAZHZc0y0Yt+jwU5g/PD\nxUsrfUFcLYaTx/LN1PCGMPe6SaxV24oI/EMJMbsRg7GwrdMN7JQF8vRMaGj6daki\nhBh3wI5fvLm0hmBUYrtCAYPIET3xlJL2LK0jQGRX7fy87LPVcXKZnXtZWtacaRQg\n1NI=\n-----END ENCRYPTED PRIVATE KEY-----\n",
+      "passphrase": "fb0f960750f472553639b6a881e42453"
+    }
+  },
+  "enterpriseID": "221160301"
+}
